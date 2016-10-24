@@ -1,0 +1,9 @@
+C:\Users\carl\Desktop\Coding Projects\Warframe Custom Class\Warframe Custom Class\bin\Debug\Warframe Custom Class.exe.config
+C:\Users\carl\Desktop\Coding Projects\Warframe Custom Class\Warframe Custom Class\obj\Debug\Warframe Custom Class.csprojResolveAssemblyReference.cache
+C:\Users\carl\Desktop\Coding Projects\Warframe Custom Class\Warframe Custom Class\obj\Debug\Warframe_Custom_Class.Main.resources
+C:\Users\carl\Desktop\Coding Projects\Warframe Custom Class\Warframe Custom Class\obj\Debug\Warframe_Custom_Class.Properties.Resources.resources
+C:\Users\carl\Desktop\Coding Projects\Warframe Custom Class\Warframe Custom Class\obj\Debug\Warframe Custom Class.csproj.GenerateResource.Cache
+C:\Users\carl\Desktop\Coding Projects\Warframe Custom Class\Warframe Custom Class\bin\Debug\Warframe Custom Class.exe
+C:\Users\carl\Desktop\Coding Projects\Warframe Custom Class\Warframe Custom Class\bin\Debug\Warframe Custom Class.pdb
+C:\Users\carl\Desktop\Coding Projects\Warframe Custom Class\Warframe Custom Class\obj\Debug\Warframe Custom Class.exe
+C:\Users\carl\Desktop\Coding Projects\Warframe Custom Class\Warframe Custom Class\obj\Debug\Warframe Custom Class.pdb
